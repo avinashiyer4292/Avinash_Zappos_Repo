@@ -1,5 +1,5 @@
 # Avinash_Zappos_Repo
-<i>A demo project for Zappos's intern hiring challenge.</i>
+<i><b>ILoveNougat app: </b>A demo project for Zappos's intern hiring challenge.</i>
 
 <p>The App has three basic functionalities:</p>
 <p>1. Display list of products from the Zappos endpoint API based on search term.</p>
