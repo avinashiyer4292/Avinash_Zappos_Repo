@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ILoveNougat</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="searchLabel">Search for products</string>
+    <string name="title_activity_share_product">ShareProductActivity</string>
+</resources>
